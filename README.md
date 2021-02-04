@@ -6,3 +6,4 @@ Content included: Trip distance, airport trips, tip percentage predictive model,
 
 Python Libraries: numpy, sklearn, scipy, tabulate.
 
+Check the pdf report for more details.
